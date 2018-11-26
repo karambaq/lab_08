@@ -12,6 +12,7 @@ using System.Drawing.Drawing2D;
 
 namespace Clipping
 {
+
     public partial class Form1 : Form
     {
         Bitmap bmp;
@@ -26,6 +27,35 @@ namespace Clipping
         List<Vector> shape_points = new List<Vector>(); // точки без повторений
         List<Vector> points = new List<Vector>(); // список образующих точек
 
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            const int WM_KEYDOWN = 0x100;
+            const int WM_SYSKEYDOWN = 0x104;
+
+            if ((msg.Msg == WM_KEYDOWN) || (msg.Msg == WM_SYSKEYDOWN))
+            {
+                switch (keyData)
+                {
+                    case Keys.Down:
+                        //do shit;
+                        break;
+
+                    case Keys.Up:
+                        //do shit;
+                        break;
+
+                    case Keys.Left:
+                        //do shit;
+                        break;
+
+                    case Keys.Right:
+                        //do shit;
+                        break;
+                }
+            }
+
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
         public Form1()
         {
             InitializeComponent();
