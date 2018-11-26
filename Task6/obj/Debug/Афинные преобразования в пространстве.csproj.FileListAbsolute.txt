@@ -1,0 +1,82 @@
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/bin/Debug/Задание 9.exe.config
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/bin/Debug/Задание 9.exe
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/bin/Debug/Задание 9.pdb
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Афинные преобразования в пространстве.csprojResolveAssemblyReference.cache
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/ex9.Form1.resources
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/ex9.Properties.Resources.resources
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Афинные преобразования в пространстве.csproj.GenerateResource.Cache
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Задание 9.exe
+D:/YandexDisk/Документы/Универ/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Задание 9.pdb
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Афинные преобразования в пространстве.csprojAssemblyReference.cache
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Афинные преобразования в пространстве.csproj.GenerateResource.cache
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/bin/Debug/Task6.exe.config
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/bin/Debug/Task6.exe
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/bin/Debug/Task6.pdb
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/task6.Form1.resources
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Task6.Properties.Resources.resources
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Task6.exe
+C:/Users/ПК/Desktop/мехмат/Графика/4.1. Компьютерная графика/Задание 9/Задание 9/obj/Debug/Task6.pdb
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/bin/Debug/Task6.exe.config
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/bin/Debug/Task6.exe
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/bin/Debug/Task6.pdb
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/obj/Debug/Афинные преобразования в пространстве.csprojAssemblyReference.cache
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/obj/Debug/task6.Form1.resources
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/obj/Debug/Task6.Properties.Resources.resources
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.GenerateResource.cache
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/obj/Debug/Task6.exe
+C:/Users/ПК/Desktop/mech/Graphics/Task6/Task6/obj/Debug/Task6.pdb
+C:/Users/divas/Desktop/graphics6-master/Task6/bin/Debug/Task6.exe.config
+C:/Users/divas/Desktop/graphics6-master/Task6/bin/Debug/Task6.exe
+C:/Users/divas/Desktop/graphics6-master/Task6/bin/Debug/Task6.pdb
+C:/Users/divas/Desktop/graphics6-master/Task6/obj/Debug/Афинные преобразования в пространстве.csprojAssemblyReference.cache
+C:/Users/divas/Desktop/graphics6-master/Task6/obj/Debug/task6.Form1.resources
+C:/Users/divas/Desktop/graphics6-master/Task6/obj/Debug/Task6.Properties.Resources.resources
+C:/Users/divas/Desktop/graphics6-master/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.GenerateResource.cache
+C:/Users/divas/Desktop/graphics6-master/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+C:/Users/divas/Desktop/graphics6-master/Task6/obj/Debug/Task6.exe
+C:/Users/divas/Desktop/graphics6-master/Task6/obj/Debug/Task6.pdb
+C:/Users/divas/Desktop/graphics/task7/Task6/obj/Debug/Афинные преобразования в пространстве.csprojAssemblyReference.cache
+C:/Users/divas/Desktop/graphics/task7/Task6/obj/Debug/task6.Form1.resources
+C:/Users/divas/Desktop/graphics/task7/Task6/obj/Debug/Task6.Properties.Resources.resources
+C:/Users/divas/Desktop/graphics/task7/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.GenerateResource.cache
+C:/Users/divas/Desktop/graphics/task7/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+C:/Users/divas/Desktop/graphics/task7/Task6/obj/Debug/Task6.exe
+C:/Users/divas/Desktop/graphics/task7/Task6/obj/Debug/Task6.pdb
+C:/Users/divas/Desktop/graphics/task7/Task6/bin/Debug/Task6.exe.config
+C:/Users/divas/Desktop/graphics/task7/Task6/bin/Debug/Task6.exe
+C:/Users/divas/Desktop/graphics/task7/Task6/bin/Debug/Task6.pdb
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/Task6.exe.config
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/Task6.exe
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/Task6.pdb
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Афинные преобразования в пространстве.csprojAssemblyReference.cache
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Task6.Properties.Resources.resources
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.GenerateResource.cache
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Task6.exe
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Task6.pdb
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Clipping.Form1.resources
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/HelixToolkit.dll
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/HelixToolkit.Wpf.dll
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/HelixToolkit.pdb
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/HelixToolkit.xml
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/HelixToolkit.Wpf.pdb
+/Users/peq/edu/cg/lab_8/task7/Task6/bin/Debug/HelixToolkit.Wpf.xml
+/Users/peq/edu/cg/lab_8/task7/Task6/obj/Debug/Афинные преобразования в пространстве.csproj.CopyComplete
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\Task6.exe.config
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\Task6.exe
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\Task6.pdb
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\HelixToolkit.dll
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\HelixToolkit.pdb
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\HelixToolkit.xml
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\obj\Debug\Афинные преобразования в пространстве.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\obj\Debug\Clipping.Form1.resources
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\obj\Debug\Афинные преобразования в пространстве.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\obj\Debug\Афинные преобразования в пространстве.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\obj\Debug\Task6.exe
+C:\Users\Max\Desktop\edu\cg\lab_8\task7\Task6\obj\Debug\Task6.pdb
